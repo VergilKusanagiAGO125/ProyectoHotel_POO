@@ -10,3 +10,5 @@ Este codigo se hizo en equipo con mis compañeros.
 3-San Pedro Avila Pablo
 
 4-Rosas Gonzalez Miguel Angel
+
+y yo, Gonzalez Ordaz Ariel
