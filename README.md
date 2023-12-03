@@ -7,8 +7,11 @@ Este codigo se hizo en equipo con mis compañeros.
 
 2-Gabriel Cruz Alondra Paloma
 
-3-San Pedro Avila Pablo
+3-Rosas Gonzalez Miguel Angel
 
-4-Rosas Gonzalez Miguel Angel
+4-San Pedro Avila Pablo
 
 y yo, Gonzalez Ordaz Ariel
+
+Version 1.0;
+-Se Subio El Proyecto Hecho en Eclipse
